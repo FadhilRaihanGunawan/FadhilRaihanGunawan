@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhil Raihan Gunawan</h1>
-<h3 align="center">Hey there! I'm a 19-year-old student who's been bouncing between countries like Saudi Arabia, the UAE, Indonesia, and now soaking up knowledge at Universiti Teknologi Malaysia. I'm all about making connections worldwide and diving into the tech and coding scene. In a world that only recognizes "better" and not "enough," I'm on a non-stop journey of learning and growth.</h3>
+<h3 align="center">Hey there! I'm a 20-year-old student who's been bouncing between countries like Saudi Arabia, the UAE, Indonesia, and now soaking up knowledge at Universiti Teknologi Malaysia. I'm all about making connections worldwide and diving into the tech and coding scene. In a world that only recognizes "better" and not "enough," I'm on a non-stop journey of learning and growth.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +30,9 @@
 <p>-> Accepted in 2 universities as an undergraduate student with honor (University Teknologi Malaysia, University Kebangsaan Malaysia)</p>
 
 <p>𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 : No projects currently active in. Looking for interesting projects in the future.</p>
+<p>-> Mobile Timetable System (Application Development)</p>
+<p>-> Ticket Event third-party mobile selling application (Mobile Aplication Programming)</p>
+
 
 <p>𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘𝗦:</p>
 
