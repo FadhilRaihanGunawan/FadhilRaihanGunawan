@@ -1,48 +1,99 @@
 <h1 align="center">Hi 👋, I'm Fadhil Raihan Gunawan</h1>
-<h3 align="center">Hey there! I'm a 20-year-old student who's been bouncing between countries like Saudi Arabia, the UAE, Indonesia, and now soaking up knowledge at Universiti Teknologi Malaysia. I'm all about making connections worldwide and diving into the tech and coding scene. In a world that only recognizes "better" and not "enough," I'm on a non-stop journey of learning and growth.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">
+  Computer Science (Software Engineering) undergraduate at UTM · Dean's List × 3 · Programmer by day, developer by night
+</h3>
+
+<p align="center">
+  <a href="mailto:fadhilraihangunawan@gmail.com">📧 fadhilraihangunawan@gmail.com</a> &nbsp;·&nbsp;
+  <a href="http://fadhilraihangunawan.github.io/">🌐 E-Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/fadhilraihangunawan">💼 LinkedIn</a>
+</p>
+
+---
+
+## 🎓 Education
+
+**B.Sc. (Hons.) Computer Science** · Minor in Software Engineering  
+Universiti Teknologi Malaysia (UTM), Faculty of Computing  
+📊 CGPA: **3.64 / 4.00** · 🏅 Dean's List × 3
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **Social Media Spam Detection** *(FYP)* | Python, TF-IDF, XGBoost, DistilBERT | Compares ML pipelines across YouTube & Twitter datasets; evaluates cross-platform & concept drift |
+| **Festival Ticketing Platform** | Flutter, Firebase, Stripe | Mobile app with third-party ticket & subscription payments |
+| **UTM Timetable Web App** | Vue 3 | Faculty-facing timetable management system |
+| **DHL Incident Genius** *(DAC 3.0)* | ASP.NET Core MVC, EF Core, MySQL | Full-stack incident management system; competition project |
+
+---
+
+## 🛠️ Tech Stack
+
+**Proficient**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Familiar**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**Exposure**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 👥 Roles & Activities
+
+- 🎮 **Esport Division Lead & In-Game Leader** — UTM PPI Valorant Team
+- 🎬 **Multimedia Videographer** — UTM PPI
+- 📝 **English Research Paper Editor**
+- 💡 **Entrepreneurship Participant** — UdukIN
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🏅 Dean's List Award × 3 semesters
+- 🎓 Accepted to UTM & UKM with undergraduate honours
+- 📊 IELTS 7.0 (Reading: 8.5)
+- 📝 SAT 1000+
+- 📜 Online Business School UK — *Make Yourself Memorable*
+
+---
+
+## 📬 Let's Connect
+
+I'm actively seeking a **software engineering internship**. Feel free to reach out!
+
 <p align="left">
-<a href="https://instagram.com/tdp_bleuxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tdp_bleuxy" height="30" width="40" /></a>
-<<h2>ABOUT ME:</h2>
-<p>𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 : Computing in Universiti Teknologi Malaysia (UTM)</p>
+  <a href="mailto:fadhilraihangunawan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fadhilraihangunawan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/tdp_bleuxy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="http://fadhilraihangunawan.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<p>𝗣𝗢𝗦𝗜𝗧𝗜𝗢𝗡 : University Undergraduate Student</p>
+---
 
-<p>𝗦𝗞𝗜𝗟𝗟𝗦 : C++ / HTML / Premier Pro / Photoshop / DaVinci / Filmora Wondershare</p>
-
-<p>𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 𝗔𝗡𝗗 𝗧𝗢𝗢𝗟𝗦 : </p>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
-<p>𝗖𝗢𝗨𝗥𝗦𝗘𝗦 : Software Engineering</p>
-
-<p>𝗛𝗢𝗡𝗢𝗥 𝗔𝗡𝗗 𝗔𝗪𝗔𝗥𝗗𝗦:</p>
-<p>-> 🥇Most read book at grade 8 in the entire school</p>
-<p>-> 1000+ SAT Score</p>
-<p>-> 7.0 IELTS Score (8.5 in reading)</p>
-<p>-> Accepted in 2 universities as an undergraduate student with honor (University Teknologi Malaysia, University Kebangsaan Malaysia)</p>
-
-<p>𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 : No projects currently active in. Looking for interesting projects in the future.</p>
-<p>-> Mobile Timetable System (Application Development)</p>
-<p>-> Ticket Event third-party mobile selling application (Mobile Aplication Programming)</p>
-
-
-<p>𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗘𝗦:</p>
-
-<p><img src="https://github.com/Fadhil5550/Fadhil5550/assets/148435257/272562eb-0f1f-4acb-a311-d6968035bbce" alt="OBS"/></p>
-<p>↑ 𝗢𝗻𝗹𝗶𝗻𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗦𝗰𝗵𝗼𝗼𝗹 𝗨𝗞 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗲 𝗼𝗳 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗶𝗼𝗻 𝗶𝗻 𝗠𝗮𝗸𝗲 𝗬𝗼𝘂𝗿𝘀𝗲𝗹𝗳 𝗠𝗲𝗺𝗼𝗿𝗮𝗯𝗹𝗲</p>
-
-
-
-
-* 🖥️  See my portfolio at [My E-Portfolio](http://fadhilraihangunawan.github.io/)
-* ✉️  You can contact me at [fadhilraihangunawan@gmail.com](mailto:fadhilraihangunawan@gmail.com)
-* ⚡  An experienced hardware connoisseur (Have built a gaming PC, custom keyboard, etc)
-
+<p align="center">
+  <i>"In a world that only recognizes better and not enough — I'm on a non-stop journey of learning and growth."</i>
+</p>
