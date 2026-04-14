@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="mailto:fadhilraihangunawan@gmail.com">📧 fadhilraihangunawan@gmail.com</a> &nbsp;·&nbsp;
-  <a href="http://fadhilraihangunawan.github.io/">🌐 E-Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/fadhilraihangunawan">💼 LinkedIn</a>
 </p>
 
