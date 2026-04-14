@@ -59,7 +59,7 @@ Universiti Teknologi Malaysia (UTM), Faculty of Computing
 - 🎮 **Esport Division Lead & In-Game Leader** — UTM PPI Valorant Team
 - 🎬 **Multimedia Videographer** — UTM PPI
 - 📝 **English Research Paper Editor**
-- 💡 **Entrepreneurship Participant** — UdukIN
+- 💡 **Entrepreneurship Project Leader** — UdukIN
 
 ---
 
