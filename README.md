@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:fadhilgunawan@graduate.utm.my">📧 fadhilgunawan@graduate.utm.my</a> &nbsp;·&nbsp;
   <a href="mailto:fadhilraihangunawan@gmail.com">📧 fadhilraihangunawan@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/fadhilraihangunawan">💼 LinkedIn</a>
+  <a href="www.linkedin.com/in/fadhil-raihan-gunawan">💼 LinkedIn</a>
 </p>
 
 ---
@@ -81,7 +81,7 @@ I'm actively seeking a **software engineering internship**. Feel free to reach o
   <a href="mailto:fadhilraihangunawan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/fadhilraihangunawan">
+  <a href="www.linkedin.com/in/fadhil-raihan-gunawan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/tdp_bleuxy">
