@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:fadhilraihangunawan@gmail.com">📧 fadhilraihangunawan@gmail.com</a> &nbsp;·&nbsp;
+  <a href="mailto:fadhilgunawan@graduate.utm.my">📧 fadhilgunawan@graduate.utm.my</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/fadhilraihangunawan">💼 LinkedIn</a>
 </p>
 
