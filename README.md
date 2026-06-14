@@ -87,9 +87,6 @@ I'm actively seeking a **software engineering internship**. Feel free to reach o
   <a href="https://instagram.com/tdp_bleuxy">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="http://fadhilraihangunawan.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
