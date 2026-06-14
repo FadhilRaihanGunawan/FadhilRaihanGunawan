@@ -66,6 +66,7 @@ Universiti Teknologi Malaysia (UTM), Faculty of Computing
 ## 🏆 Achievements & Certifications
 
 - 🏅 Dean's List Award × 3 semesters
+- 🏅 Top 10 in DHL DAC 3.0 Challenge
 - 🎓 Accepted to UTM & UKM with undergraduate honours
 - 📊 IELTS 7.0 (Reading: 8.5)
 - 📝 SAT 1000+
